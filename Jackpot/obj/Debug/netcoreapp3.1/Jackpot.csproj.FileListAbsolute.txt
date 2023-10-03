@@ -1,0 +1,14 @@
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\bin\Debug\netcoreapp3.1\Jackpot.exe
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\bin\Debug\netcoreapp3.1\Jackpot.deps.json
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\bin\Debug\netcoreapp3.1\Jackpot.runtimeconfig.json
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\bin\Debug\netcoreapp3.1\Jackpot.runtimeconfig.dev.json
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\bin\Debug\netcoreapp3.1\Jackpot.dll
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\bin\Debug\netcoreapp3.1\Jackpot.pdb
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.csproj.AssemblyReference.cache
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.AssemblyInfoInputs.cache
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.AssemblyInfo.cs
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.csproj.CoreCompileInputs.cache
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.dll
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.pdb
+C:\Users\rabri\Documents\me\Jackpot\programa_CASINO\obj\Debug\netcoreapp3.1\Jackpot.genruntimeconfig.cache
